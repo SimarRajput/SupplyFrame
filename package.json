@@ -1,0 +1,17 @@
+{
+  "name": "supplyframe",
+  "version": "1.0.0",
+  "description": "An app for supplyframe",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simarjit Singh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
